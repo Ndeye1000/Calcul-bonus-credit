@@ -9,7 +9,7 @@ Ce projet contient un programme Python qui calcule le montant de crédits obtenu
 Le programme calcule les crédits bonus selon la formule suivante :
 
 ```
-Crédits = montant × (100 / bonus) + montant
+Crédits = montant / (100 / bonus) + montant
 ```
 
 Par exemple, avec un bonus de 500% et un achat de 5000 FCFA :
